@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="20px" viewBox="0 0 10 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icon-facebook</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1362.000000, -71.000000)" fill="#010002">
+            <g id="Social-Media" transform="translate(1362.000000, 71.000000)">
+                <path d="M6.85713014,4.00003462 L9.6,4.00003462 L9.6,0 L6.44204553,0 C1.97011637,0 2.07595716,3.50491999 2.07595716,4.02764195 L2.07595716,6.66660897 L1.82076576e-13,6.66660897 L1.82076576e-13,10.6666436 L2.07595716,10.6666436 L2.07595716,20 L6.17143493,20 L6.17143493,10.6666436 L8.91430479,10.6666436 L9.6,6.66660897 L6.17143493,6.66660897 L6.17143493,4.66667821 C6.17143493,4.22920146 6.42860402,4.00003462 6.85713014,4.00003462" id="icon-facebook"></path>
+            </g>
+        </g>
+    </g>
+</svg>

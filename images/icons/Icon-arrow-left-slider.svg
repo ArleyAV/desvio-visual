@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="16px" viewBox="0 0 30 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Icon-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-58.000000, -515.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Hero" transform="translate(28.000000, 134.000000)">
+                <path d="M53.5367201,381 L60,388.899564 L53.5367201,396.799129 L51.5430177,395.167918 L55.617,390.187 L30,390.187557 L30,387.611572 L55.617,387.611 L51.5430177,382.631211 L53.5367201,381 Z" id="Icon-arrow" transform="translate(45.000000, 388.899564) scale(-1, 1) translate(-45.000000, -388.899564) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
