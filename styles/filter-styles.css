@@ -3,7 +3,7 @@
 }
 
 .slider-container {
-  margin: auto;
+  margin: 0 auto 120px;
   max-width: 1920px;
   padding: 0 30px;
   position: relative;
@@ -46,7 +46,6 @@
   font-size: 80px;
   line-height: 1;
   letter-spacing: -5px;
-  margin-bottom: 50px;
   margin-left: -0.3rem;
 }
 
@@ -58,7 +57,7 @@
 .prev,
 .next {
   cursor: pointer;
-  opacity: 0.5;
+  opacity: 1;
   padding: 30px;
   position: absolute;
   top: 50%;
@@ -82,7 +81,6 @@
 .prev:hover,
 .next:hover {
   color: red;
-  opacity: 1;
   transform: translateX(-10px) translateY(-50%);
 }
 
